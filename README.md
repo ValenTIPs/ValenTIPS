@@ -1,7 +1,7 @@
 <h1 align="center">Tibuidk - Estudiante de Programación & Ciberseguridad 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ValenTIPS&style=flat&color=2dba4e&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Tibuidk&style=flat&color=2dba4e&label=Profile+views" alt="Profile views" />
 </p>
 
 <br>
@@ -47,5 +47,5 @@
 ## 📬 Contacto
 
 - 💬 Discord: [Tibuidk](Tibuidk)
-- 💻 GitHub: [@ValenTIPS](https://github.com/ValenTIPs)
+- 💻 GitHub: [@Tibuidk](https://github.com/Tibuidk)
 - 🐦 Twitter: [@Tibuidk](https://x.com/Tibuidk)
